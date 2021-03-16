@@ -1,5 +1,5 @@
 document.querySelector(".yes").onclick = function() {
-    alert("https://vk.com/id181402441")
+    alert("https://vk.com/grandmother337")
 }
 document.querySelector(".no").onclick = function() {
     let img = document.createElement("img")
